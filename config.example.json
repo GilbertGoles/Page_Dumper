@@ -1,0 +1,25 @@
+{
+  "url": "https://target.com",
+  "depth": 2,
+  "bruteforce": true,
+  "threads": 20,
+  "onefile": false,
+  "timeout": 15,
+  "insecure": false,
+  "json_report": true,
+  "html_report": true,
+  "stealth": 0,
+  "no_extras": false,
+  "wayback": false,
+  "delay": 0,
+  "log": null,
+  "output": null,
+  "user_agent": null,
+  "host_header": null,
+  "proxy": null,
+  "cookies": "session=abc123; token=xyz",
+  "headers": {
+    "Authorization": "Bearer eyJhbGciOi...",
+    "X-Custom-Header": "value"
+  }
+}
